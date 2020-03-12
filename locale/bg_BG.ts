@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="bg_BG">
+<TS version="2.1" language="bg_BG">
 <context>
     <name>About</name>
     <message>
@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>&lt;h3 align=&quot;center&quot;&gt;Welcome to &lt;b&gt;GoldenDict&lt;/b&gt;!&lt;/h3&gt;&lt;p&gt;To start working with the program, first visit &lt;b&gt;Edit|Dictionaries&lt;/b&gt; to add some directory paths where to search for the dictionary files, set up various Wikipedia sites or other sources, adjust dictionary order or create dictionary groups.&lt;p&gt;And then you&apos;re ready to look up your words! You can do that in this window by using a pane to the left, or you can &lt;a href=&quot;Working with popup&quot;&gt;look up words from other active applications&lt;/a&gt;. &lt;p&gt;To customize program, check out the available preferences at &lt;b&gt;Edit|Preferences&lt;/b&gt;. All settings there have tooltips, be sure to read them if you are in doubt about anything.&lt;p&gt;Should you need further help, have any questions, suggestions or just wonder what the others think, you are welcome at the program&apos;s &lt;a href=&quot;http://goldendict.org/forum/&quot;&gt;forum&lt;/a&gt;.&lt;p&gt;Check program&apos;s &lt;a href=&quot;http://goldendict.org/&quot;&gt;website&lt;/a&gt; for the updates. &lt;p&gt;(c) 2008-2013 Konstantin Isakov. Licensed under GPLv3 or later.</source>
-        <translation>&lt;h3 align=&quot;center&quot;&gt;Добре дошли в &lt;b&gt;GoldenDict&lt;/b&gt;!&lt;/h3&gt;&lt;p&gt;За да започнете да работите с програмата, първо посетете &lt;b&gt;Редактиране|Речници&lt;/b&gt; за да добавите път за достъп до места, на които да се търсят речници, да настроите различни страници на Уикипедия или други ресруси, да подредите последователността на речниците или да създадете групи от речници.&lt;p&gt;Веднага след това сте готови да търсите думи! Можете да направите това в този прозорец, като използвате левия панел или можете да &lt;a href=&quot;Working with popup&quot;&gt;търсите думи от други активни приложения&lt;/a&gt;. &lt;p&gt;За да настроите програмата, погледнете наличните настройки в &lt;b&gt;Редактиране|Настройки&lt;/b&gt;. Всички настройки там имат подсказки - прочетете ги в случай, че се съмнявате за нещо.&lt;p&gt;Ако имате нужда от допълнителна помощ, имате въпроси, предложения или се чудите какво мислят останалите, сте добре дошли във &lt;a href=&quot;http://goldendict.berlios.de/forum/&quot;&gt;форума&lt;/a&gt; на програмата.&lt;p&gt;Проверете &lt;a href=&quot;http://goldendict.berlios.de/&quot;&gt;уеб страницата&lt;/a&gt; за обновления. &lt;p&gt;(c) 2008-2013 Konstantin Isakov. Лицензирано под GPLv3 или следваща версия.</translation>
+        <translation>&lt;h3 align=&quot;center&quot;&gt;Добре дошли в &lt;b&gt;GoldenDict&lt;/b&gt;!&lt;/h3&gt;&lt;p&gt;За да започнете да работите с програмата, първо посетете &lt;b&gt;Редактиране|Речници&lt;/b&gt; за да добавите път за достъп до места, на които да се търсят речници, да настроите различни страници на Уикипедия или други ресруси, да подредите последователността на речниците или да създадете групи от речници.&lt;p&gt;Веднага след това сте готови да търсите думи! Можете да направите това в този прозорец, като използвате левия панел или можете &lt;a href=&quot;Работа с изскачащ прозорец&quot;&gt;да търсите думи от други активни приложения&lt;/a&gt;. &lt;p&gt;За да настроите програмата, погледнете наличните настройки в &lt;b&gt;Редактиране|Настройки&lt;/b&gt;. Всички настройки там имат подсказки - прочетете ги в случай, че се съмнявате за нещо.&lt;p&gt;Ако имате нужда от допълнителна помощ, имате въпроси, предложения или се чудите какво мислят останалите, сте добре дошли във &lt;a href=&quot;http://goldendict.berlios.de/forum/&quot;&gt;форума&lt;/a&gt; на програмата.&lt;p&gt;Проверете &lt;a href=&quot;http://goldendict.berlios.de/&quot;&gt;уеб страницата&lt;/a&gt; за обновления. &lt;p&gt;(c) 2008-2013 Konstantin Isakov. Лицензирано под GPLv3 или следваща версия.</translation>
     </message>
     <message>
         <source>(picture)</source>
@@ -978,7 +978,7 @@ between classic and school orthography in cyrillic)</source>
     <name>GroupSelectorWidget</name>
     <message>
         <source>Look in</source>
-        <translation type="obsolete">Търсене в</translation>
+        <translation>Търсене в</translation>
     </message>
 </context>
 <context>
@@ -3265,7 +3265,7 @@ It is not needed to select this option if you don&apos;t use such programs.</sou
     </message>
     <message>
         <source>Expand optional &amp;parts</source>
-        <translation>Раскривай допълнителни &amp;области</translation>
+        <translation>Разкривай допълнителни &amp;области</translation>
     </message>
     <message>
         <source>Turn this option on if you want to select words by single mouse click</source>
@@ -3385,7 +3385,7 @@ from Stardict, Babylon and GLS dictionaries</source>
     </message>
     <message>
         <source>Extra search via synonyms</source>
-        <translation>Допълнително търсене за синоними</translation>
+        <translation>Допълнително търсене на синоними</translation>
     </message>
     <message>
         <source>Favorites</source>
@@ -3488,7 +3488,7 @@ from Stardict, Babylon and GLS dictionaries</source>
     </message>
     <message>
         <source>Prefix Match</source>
-        <translation>По префиксу</translation>
+        <translation>По префикс</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -3923,12 +3923,13 @@ kana writing systems. Standardized as ISO 3602
 
 Not implemented yet in GoldenDict.</source>
         <translation>Най използваната система, имаща непосредственно отношение към
-устройства за запис kana. Стандартизирано по ISO 3602 <translation>
+устройства за запис kana. Стандартизирано по ISO 3602
+
 В GoldenDict засега не реализирано.</translation>
     </message>
     <message>
         <source>Nihon-shiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Nihon-shiki</translation>
     </message>
     <message>
         <source>Based on Nihon-shiki system, but modified for modern standard Japanese.
@@ -3936,7 +3937,8 @@ Standardized as ISO 3602
 
 Not implemented yet in GoldenDict.</source>
         <translation>Базирано на система Nihon-shiki, но осъвременено за стандарта на японски език.
-Стандартизирано по ISO 3602<translation>
+Стандартизирано по ISO 3602
+
 В GoldenDict засега не реализирано.</translation>
     </message>
     <message>
